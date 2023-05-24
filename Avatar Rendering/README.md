@@ -2,8 +2,9 @@
 
 ## Screenshots
 
-[<video src="demo.mov" controls="controls" ></video>
+[[<video src="demo.mov" controls="controls" ></video>
 ](https://github.com/Gyan-Sparsh/Gyan-Sparsh/assets/83419951/0d4f4d54-f56c-4d26-aae4-3952fedbcbb2
+)](https://github.com/Gyan-Sparsh/Gyan-Sparsh/assets/83419951/f08275f4-d263-4539-89a7-634d9c87682f
 )
 
 <img src='website.png' />
